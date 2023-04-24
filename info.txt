@@ -1,0 +1,4 @@
+This project is designed to be run on a raspberry pi, this is why it shows erors with the libraries.
+Code for the files in the LinearMotor project was borrowed from https://thingsdaq.org/2022/03/01/h-bridge-and-dc-motor-with-raspberry-pi/.
+The utils.py file was modified by me to cater to our needs, gpiozero_extended is untouched.
+Everything else is entirely written by me, Klejdis Beshi.
